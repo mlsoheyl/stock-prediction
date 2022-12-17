@@ -1,1 +1,1 @@
-In this project, predict open price in daily timeframe of Apple Stock with LSTM (Long short-term memory). first, with acf see autocorrelation for find best lag time.
+In this project, predict the open price in the daily timeframe of Apple stocks with LSTM (Long short-term memory). First, with ACF, see autocorrelation to find the best lag time. After that, create a 60-day lag and then model with LSTM. This model can predict the trend of price, but not exactly price.
